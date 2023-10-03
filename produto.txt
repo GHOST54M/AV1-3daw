@@ -1,0 +1,7 @@
+1001;Queijo Minas;5,99
+1002;Mortadela;2,99
+1003;Pão Francês;0,99
+1004;Manteiga;3,49
+1005;Café;17,99
+1006;Leite;5,99
+1007;Nescau;7,99
